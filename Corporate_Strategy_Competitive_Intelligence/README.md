@@ -1,7 +1,3 @@
-I see! Based on your description of the project and the `.ipynb` files, I can help you draft a `README.md` that explains the purpose, features, and usage of the notebook files. Here's a draft:
-
----
-
 # Hydro Gen 2040: Mapping Uncertainties and the Future of Green Hydrogen in Saudi Arabia
 
 ## Project Overview
