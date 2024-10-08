@@ -1,27 +1,57 @@
-The document outlines the project **Hydro Gen 2040: Mapping uncertainties and future of Green Hydrogen in Saudi Arabia** and covers topics related to hydrogen energy, its production, and the industry life cycle. It describes three main types of hydrogen—grey, blue, and green—with an emphasis on **green hydrogen** produced through renewable energy sources like solar and wind.
+I see! Based on your description of the project and the `.ipynb` files, I can help you draft a `README.md` that explains the purpose, features, and usage of the notebook files. Here's a draft:
 
-Here’s a summary of what else is discussed in the paper:
+---
 
-1. **PESTEL Analysis**:
-   - Political: Saudi Arabia's policies, such as the Helios project and regulations on renewable energy production, are described.
-   - Economic: The economic stability and growth prospects of green hydrogen are explored, including financial deals and global market share predictions.
-   - Social: Sentiment analysis data related to public perception of green hydrogen, using social media platforms.
-   - Technological & Environmental: Descriptions of the energy infrastructure, production processes, and cost-effectiveness of green hydrogen projects.
-   - Legal: Laws and regulatory frameworks guiding hydrogen energy production in Saudi Arabia.
+# Hydro Gen 2040: Mapping Uncertainties and the Future of Green Hydrogen in Saudi Arabia
 
-2. **Strategic Analysis**:
-   - **Porter's Five Forces** are used to analyze the competitiveness of the hydrogen market, focusing on barriers to entry, substitution threats, and the power of buyers and suppliers.
-   - **SWOT Analysis**: This analysis discusses the strengths (geographic and political advantages), weaknesses (low global demand, distribution costs), opportunities (foreign investments, reducing CO2 emissions), and threats (geopolitical risks, competition from other energy sources).
+## Project Overview
 
-3. **Scenarios Development**:
-   - The paper develops four future scenarios using a **2x2 matrix**, which includes variables like government policy and CO2 emissions. These scenarios explore potential futures for Saudi Arabia’s hydrogen industry:
-     - **Emerald Kingdom (Policy Surge & Carbon Shift)**: Strong government support and successful carbon reduction strategies.
-     - **Market Drift (Policy Breeze & Carbon Shift)**: Minimal government support but a gradual shift towards green hydrogen.
-     - **Fata Morgana (Policy Surge & Carbon Shadow)**: Ambitious policies with high market risks, leading to over-reliance on fossil fuels.
-     - **Oil’s Well that Ends Dwell (Policy Breeze & Carbon Shadow)**: Continued focus on fossil fuels with minimal green hydrogen development.
+This project, **Hydro Gen 2040**, focuses on analyzing and mapping the uncertainties around green hydrogen production in Saudi Arabia. Through scenario planning and strategic analysis, the project aims to provide insights into how Saudi Arabia can capitalize on green hydrogen by 2040. The notebook utilizes various frameworks, models, and data analysis tools to predict future trends in the hydrogen energy market.
 
-4. **Technology & Production**: The document explains how the **NEOM Green Hydrogen Company** plans to produce hydrogen using 4 GW of solar energy, aiming to lower production costs and emissions through economies of scale.
+## Key Features
 
-5. **Conclusion**: The project highlights the strategic positioning of Saudi Arabia in the future of green hydrogen, considering its renewable energy potential and geopolitical positioning, and the risks and opportunities within this transition.
+- **Energy Market Analysis**: Examines various hydrogen types (grey, blue, and green), focusing on green hydrogen's potential in the Saudi energy market.
+- **PESTELL and SWOT Analysis**: A thorough analysis of factors affecting the future of green hydrogen in Saudi Arabia.
+- **Scenario Development (2x2 Matrix)**: The project employs a 2x2 matrix approach to visualize possible future scenarios for green hydrogen development in the region.
+- **Strategic Models**: Uses Porter’s Advanced Forces to analyze market competition and Sentiment Analysis to gauge public perception of the project.
+- **Visualization & Data Analysis**: The project makes use of Python’s data analysis libraries (like pandas, scikit-learn) to run simulations, create visualizations, and model future outcomes.
 
-This information provides a comprehensive view of the green hydrogen landscape in Saudi Arabia, focusing on technological, political, and market aspects.
+## Notebooks
+
+- **CSCI.ipynb**: Contains the core analysis, including the PESTELL, SWOT, and Porter’s Forces analyses. It also covers sentiment analysis, data processing, and scenario mapping. Also covering with deeper dives into data preparation, visualization, and strategic scenario development using machine learning models.
+- **SentimentAanalysis_CSCI-2.ipynb**: It covers sentiment analysis, data processing, and scenario mapping.
+
+## Installation
+
+To use this project, ensure that the following dependencies are installed:
+
+```bash
+pip install -r requirements.txt
+```
+
+This will install necessary Python libraries, including:
+- pandas
+- numpy
+- scikit-learn
+- matplotlib
+- seaborn
+- jupyter
+
+## Usage
+
+To run the notebooks, follow these steps:
+
+1. Clone the repository or download the files.
+2. Open the terminal and navigate to the project directory.
+3. Launch Jupyter Notebook:
+   ```bash
+   jupyter notebook
+   ```
+4. Open `CSCI.ipynb` or `SentimentAanalysis_CSCI.ipynb` and run all the cells to execute the analysis and generate visualizations.
+
+## Data Sources
+The lift of references are in Hydro_Gen_2040.pdf under references.
+
+## Contributing
+
+Contributions are welcome! Please open an issue or submit a pull request with improvements or new ideas.
