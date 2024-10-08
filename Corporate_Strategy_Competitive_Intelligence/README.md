@@ -26,7 +26,7 @@ This project, **Hydro Gen 2040**, focuses on analyzing and mapping the uncertain
 To use this project, ensure that the following dependencies are installed:
 
 ```bash
-pip install -r requirements.txt
+pip install pandas numpy scikit-learn matplotlib seaborn jupyter
 ```
 
 This will install necessary Python libraries, including:
