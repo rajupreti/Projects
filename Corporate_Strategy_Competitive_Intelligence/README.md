@@ -15,7 +15,7 @@ This project, **Hydro Gen 2040**, focuses on analyzing and mapping the uncertain
 ## Notebooks
 
 - **CSCI.ipynb**: Contains the core analysis, including the PESTELL, SWOT, and Porter’s Forces analyses. It also covers sentiment analysis, data processing, and scenario mapping. Also covering with deeper dives into data preparation, visualization, and strategic scenario development using machine learning models.
-- **SentimentAanalysis_CSCI-2.ipynb**: It covers sentiment analysis, data processing, and scenario mapping.
+- **SentimentAanalysis_CSCI.ipynb**: It covers sentiment analysis, data processing, and scenario mapping.
 
 ## Installation
 
