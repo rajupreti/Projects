@@ -1,0 +1,31 @@
+Question,OptionsA,OptionsB,OptionsC,ImpactA,ImpactB,ImpactC
+A customer posts a negative review online,A: Ignore the comment, B: Respond politely and offer help, C: Publicly refute the comment,A: -5, B: +10, C: -10
+A competitor launches a new innovative product,A: Do nothing, B: Analyze the product and improve your own, C: Discredit their product,A: 0, B: +15, C: -5
+A social media influencer criticizes your product,A: Ignore, B: Collaborate with them for a review, C: Challenge their critique,A: -5, B: +20, C: -10
+A viral video negatively portrays your brand,A: Ignore it,B: Create a positive response video,C: Threaten legal action,A: -10, B: +15, C: -20
+Your product is featured in a popular blog,A: Share the blog post,B: Thank the blogger,C: Offer the blogger an exclusive interview,A: +5, B: +10, C: +15
+A rumor about your company spreads on social media,A: Ignore it,B: Refute the rumor with facts,C: Use humor to deflect,A: -5, B: +10, C: +5
+A new law affects your product line,A: Complain about the law publicly,B: Adapt your products,C: Lobby for changes,A: -5, B: +10, C: +5
+A customer praises your product online,A: Like the comment,B: Share the comment with a thank you,C: Offer a discount on their next purchase,A: +5, B: +10, C: +15
+Your brand receives an award,A: Announce it with a simple post,B: Host an event to celebrate,C: Create a campaign around the award,A: +5, B: +10, C: +20
+A negative falsehood about your brand is being spread,A: Sue the source,B: Correct the information publicly,C: Use it as a chance to explain your values,A: -20, B: +10, C: +15
+An employee's controversial tweet goes viral,A: Ignore the tweet,B: Apologize and announce an internal review,C: Defend the employee's freedom of speech,A: -5, B: +10, C: -10
+Your brand is mentioned in a popular podcast,A: Thank the hosts publicly,B: Sponsor the next episode,C: Offer an exclusive interview or product,A: +10, B: +15, C: +20
+A high-profile celebrity is seen using your product,A: Do nothing,B: Reach out for an endorsement,C: Create a marketing campaign around it,A: +5, B: +20, C: +30
+Customers complain about poor customer service,A: Ignore the complaints,B: Improve training and apologize,C: Offer compensation to affected customers,A: -10, B: +15, C: +20
+A product recall is announced,A: Minimize the issue,B: Apologize and offer refunds or replacements,C: Launch an informative campaign on the recall,A: -20, B: +10, C: +15
+Your company wins a sustainability award,A: Make a low-key announcement,B: Launch a campaign highlighting your efforts,C: Partner with an environmental charity,A: +5, B: +15, C: +20
+A false advertising claim is made against your brand,A: Ignore the claim,B: Clarify the misunderstanding,C: Revise your advertising practices,A: -10, B: +10, C: +20
+A major competitor goes out of business,A: Publicize their failure,B: Offer support to their former customers,C: Hire their top talent,A: -5, B: +20, C: +25
+A customer's positive unboxing video goes viral,A: Like and share the video,B: Send a thank-you gift,C: Feature the video in your marketing,A: +10, B: +15, C: +20
+Your brand is accused of unethical practices,A: Deny all accusations,B: Investigate and address the issues,C: Promote your ethical policies,A: -20, B: +20, C: +10
+A new social media challenge involves your product,A: Encourage participation,B: Create a branded version of the challenge,C: Warn about any potential risks,A: +10, B: +20, C: +5
+Your website experiences a data breach,A: Downplay the breach,B: Notify affected users and enhance security,C: Offer compensation to affected users,A: -30, B: +15, C: +20
+A well-known industry analyst criticizes your business model,A: Ignore the criticism,B: Invite the analyst for a discussion,C: Publicly defend your model,A: -5, B: +20, C: +10
+Your brand partners with a controversial figure,A: Sever ties immediately,B: Defend the partnership,C: Monitor public reaction before deciding,A: -10, B: -20, C: +0
+A popular TV show makes fun of your product,A: Issue a formal complaint,B: Use humor to join the conversation,C: Offer the show's hosts a product demo,A: -10, B: +15, C: +20
+Your product is featured in a negative news report,A: Ignore the report,B: Offer a factual rebuttal,C: Highlight positive customer stories,A: -10, B: +10, C: +20
+A positive scientific study about your product is published,A: Share the study widely,B: Host a webinar to discuss the findings,C: Use the study in your marketing materials,A: +20, B: +25, C: +30
+An employee starts a crowdfunding campaign for a personal project,A: Promote the campaign internally,B: Share the campaign on social media,C: Ask the employee to halt the campaign,A: +0, B: +10, C: -5
+Your company is featured in a documentary about sustainability,A: Promote the documentary,B: Create educational content based on it,C: Organize a screening event,A: +15, B: +20, C: +25
+A key product is delayed due to supply chain issues,A: Hide the reasons for the delay,B: Communicate openly about the issues,C: Offer discounts to affected customers,A: -15, B: +10, C: +20
